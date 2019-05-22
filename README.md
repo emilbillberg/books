@@ -1,5 +1,6 @@
 # Books
 
+- [Accelerate: The Science of Lean Software and DevOps](https://books.google.se/books?id=Kax-DwAAQBAJ&pg) - Nicole Forsgren, Jez Humble, Gene Kim
 - [Future of Crimes](https://books.google.se/books?id=5v99BAAAQBAJ) - Marc Goodman
 - [Sapiens: A Brief History of Humankind](https://books.google.se/books?id=1EiJAwAAQBAJ) - Yuval Noah Harari
 - [Kaninjägaren](https://books.google.se/books/about/Kaninjägaren.html?id=-KcTDAAAQBAJ) - Lars Kepler
