@@ -1,5 +1,6 @@
 # Books
 
+- [Sä här kan alla svenskar bli miljonärer](https://books.google.se/books?id=sOz8tgAACAAJ) - Per H. Börjesson 
 - [Accelerate: The Science of Lean Software and DevOps](https://books.google.se/books?id=Kax-DwAAQBAJ&pg) - Nicole Forsgren, Jez Humble, Gene Kim
 - [Future of Crimes](https://books.google.se/books?id=5v99BAAAQBAJ) - Marc Goodman
 - [Origin](https://books.google.se/books?id=95wnDQAAQBAJ) - Dan Brown
